@@ -29,15 +29,14 @@
 
 ---
 
-### 🚀 Recent Highlights & Impact
+### 🌟 Professional Highlights
 
-- 🌐 Delivered a 3D interactive web experience using **Three.js**, enhancing user engagement by 50%.
-- 📈 Improved website performance by 40% with advanced code optimization techniques.
-- 🎨 Designed and implemented visually appealing animations using **Framer Motion** and **GSAP**, receiving positive feedback from clients.
-- 📱 Boosted mobile traffic by 65% through a mobile-first design approach.
-- ⚡ Built and deployed 15+ scalable, production-ready web applications.
-- 🔧 Optimized MongoDB queries to reduce API response time by 30%, enhancing user experience.
-- ☁️ Leveraged **Docker**, **Kubernetes**, and **AWS** for scalable application deployment.
+- 🌐 Delivered visually stunning, interactive 3D web experiences using **Three.js**.
+- 🎨 Designed and implemented dynamic animations using **Framer Motion** and **GSAP**, elevating user engagement.
+- 📱 Created mobile-first, responsive web designs for seamless cross-device experiences.
+- 🔧 Developed and deployed production-ready web applications with scalable architecture.
+- ☁️ Orchestrated cloud-based deployments using **Docker**, **Kubernetes**, and **AWS**.
+- 🤝 Collaborated effectively in cross-functional teams to deliver client-focused solutions.
 
 ---
 
@@ -45,39 +44,39 @@
 
 **AS Technologies** - Web Developer (Feb 2024 - Present)  
 `Palampur, HP`  
-▸ Enhanced development processes with new tech implementations  
-▸ Increased customer retention by 25% through UI improvements  
+▸ Enhanced development processes with new tech implementations.  
+▸ Improved user experience through tailored UI updates.
 
-**Mitsha Softech** - Web Developer (Oct 2023 - Jan 2024)  
+**Mitsha Softech Private Limited** - Web Developer (Oct 2023 - Jan 2024)  
 `Mohali, PB`  
-▸ Built 10+ responsive web apps using modern frameworks  
-▸ Pioneered custom theme development for enterprise clients  
+▸ Developed and launched responsive web applications.  
+▸ Specialized in creating custom themes for enterprise clients.
 
-**Excellence Tech** - MERN Stack Intern (Dec 2022 - Jul 2023)  
+**Excellence Technologies** - MERN Stack Intern (Dec 2022 - Jul 2023)  
 `Hamirpur, HP`  
-▸ Collaborated on 5+ full-stack projects  
-▸ Implemented RESTful APIs with Express.js  
+▸ Contributed to full-stack development projects using the MERN stack.  
+▸ Built and maintained modular, clean, and scalable code.
 
 ---
 
 ### 📚 Education
 
 - **Bachelor of Computer Applications**  
-  Shoolini University (2024 - Present)
+  Shoolini University Online (2024 - Present)
 
 - **Diploma in Information Technology**  
   Govt. Polytechnic Hamirpur (2021 - 2023)
 
 ---
 
-### 🌟 Core Strengths
+### 🚀 Core Competencies
 
-- 🎨 Custom Theme Development Expert
-- 📱 Mobile-First Design Specialist
-- 🖌️ Animation & 3D Web Development
-- ☁️ Cloud Deployment & Scalability
-- 🤝 Cross-functional Team Collaboration
-- 🔧 Performance Optimization Guru
+- 🎨 Expert in crafting bespoke web themes.
+- 📱 Mobile-first and responsive design specialist.
+- 🖌️ Animation and interactive web development enthusiast.
+- ☁️ Skilled in cloud deployment and scalability.
+- 🔧 Performance optimization and debugging expert.
+- 🤝 Collaborative team player with strong communication skills.
 
 ---
 
