@@ -92,8 +92,7 @@
 </p>
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdev014&layout=compact&theme=nightowl)
-
+![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=rdev014&layout=donut&theme=nightowl)
 ---
 
 <p align="center"> 
