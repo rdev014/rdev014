@@ -92,9 +92,6 @@
 </p>
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdev014&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdev014&layout=compact&theme=nightowl)
 
 ---
